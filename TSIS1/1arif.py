@@ -1,0 +1,7 @@
+a , b = input().split()
+a = int(a)
+b = int(b)
+c = (a**2)+(b**2)
+c **=(1/2)
+c = int(c)
+print(c)
